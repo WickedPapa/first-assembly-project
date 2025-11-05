@@ -1,0 +1,19 @@
+# ==========================
+# File temporanei e compilati
+# ==========================
+
+# File oggetto
+*.o
+
+# Eseguibili generati
+conta-bit-a-uno
+test
+
+# Backup ed editor temporanei
+*~
+*.swp
+*.tmp
+
+# Output di compilazioni o test
+a.out
+*.out
